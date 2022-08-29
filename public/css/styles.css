@@ -1,0 +1,72 @@
+.btn-primary,
+.bg-primary {
+    background-color: #285e89 !important;
+}
+
+.btn-primary:hover {
+    background-color: #142f45 !important;
+}
+
+.sanmart-logo {
+    font-family: "Anton", sans-serif;
+    color: #285e89;
+    margin: 0;
+}
+
+.card {
+    border-radius: 24px;
+}
+
+.card-img-top {
+    border-radius: 24px 24px 0 0;
+}
+
+.img-detail {
+    border-radius: 24px;
+}
+
+.price-card {
+    font-weight: 600;
+    color: #dc3545;
+}
+
+.lead {
+    font-weight: 400;
+}
+
+.display-4 {
+    font-weight: 600;
+}
+
+.hr-full {
+    border: dashed 2px;
+    border-bottom: none;
+}
+
+.about-hr {
+    border: dashed 2px;
+    border-bottom: none;
+    width: 50%;
+    margin: 100px auto;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link.active {
+    font-weight: 600;
+    color: #285e89;
+}
+
+.accordion-button,
+.product-name {
+    color: #285e89;
+}
+
+.search-button {
+    height: 40px;
+    width: 75px;
+}
